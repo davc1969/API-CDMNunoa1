@@ -1,0 +1,5 @@
+/* Se le da un estilo a la línea que dívide el título principal del resto */
+hr {
+    border-color: blue  ;
+    width: 60%;
+}
